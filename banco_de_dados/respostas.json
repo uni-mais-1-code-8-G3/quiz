@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "letra": "A",
+        "resposta": 2,
+        "id_pergunta": 1
+    },
+    {
+        "id": 2,
+        "letra": "B",
+        "resposta": "qwrwer",
+        "id_pergunta": 1
+    }
+]
